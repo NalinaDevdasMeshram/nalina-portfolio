@@ -6,7 +6,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="py-4 md:px-[7vw] lg:px-[20vw] font-sans mt-16 md:mt-24 lg:mt-32"
+      className="py-4 md:px-[7vw] lg:px-[20vw] font-sans mt-16 md:mt-24 lg:mt-32 border border-red-900"
     >
       <div className="flex flex-col-reverse md:flex-row justify-between items-center">
         {/* left side */}
@@ -34,7 +34,7 @@ const About = () => {
             ></ReactTypingEffect>
           </h3>
           {/* about me paragraph */}
-          <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
+          <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 m-5 leading-relaxed">
             I'm very ambitious front-end developer looking for a role in
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects. I'm quietly
