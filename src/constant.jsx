@@ -27,7 +27,7 @@ import Degreelogo from "./assets/Kdk College.png";
 import Qkartlogo from "./assets/Qkart.png";
 import Qtifylogo from "./assets/Qtify.png";
 import Qtriplogo from "./assets/Qtrip.png";
-import FoodDeliverylogo from "./assets/foodDelivery.png";
+import FoodDeliverylogo from "./assets/FoodDelivery.png";
 import qtripstaticlogo from "./assets/qtripstatic.png";
 import BotAIlogo from "./assets/BotAI.png";
 
